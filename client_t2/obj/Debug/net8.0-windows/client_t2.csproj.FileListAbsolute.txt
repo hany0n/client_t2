@@ -1,0 +1,16 @@
+C:\Users\hanyon\source\repos\client_t2\client_t2\bin\Debug\net8.0-windows\client_t2.exe
+C:\Users\hanyon\source\repos\client_t2\client_t2\bin\Debug\net8.0-windows\client_t2.deps.json
+C:\Users\hanyon\source\repos\client_t2\client_t2\bin\Debug\net8.0-windows\client_t2.runtimeconfig.json
+C:\Users\hanyon\source\repos\client_t2\client_t2\bin\Debug\net8.0-windows\client_t2.dll
+C:\Users\hanyon\source\repos\client_t2\client_t2\bin\Debug\net8.0-windows\client_t2.pdb
+C:\Users\hanyon\source\repos\client_t2\client_t2\obj\Debug\net8.0-windows\client_t2.Form1.resources
+C:\Users\hanyon\source\repos\client_t2\client_t2\obj\Debug\net8.0-windows\client_t2.csproj.GenerateResource.cache
+C:\Users\hanyon\source\repos\client_t2\client_t2\obj\Debug\net8.0-windows\client_t2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hanyon\source\repos\client_t2\client_t2\obj\Debug\net8.0-windows\client_t2.AssemblyInfoInputs.cache
+C:\Users\hanyon\source\repos\client_t2\client_t2\obj\Debug\net8.0-windows\client_t2.AssemblyInfo.cs
+C:\Users\hanyon\source\repos\client_t2\client_t2\obj\Debug\net8.0-windows\client_t2.csproj.CoreCompileInputs.cache
+C:\Users\hanyon\source\repos\client_t2\client_t2\obj\Debug\net8.0-windows\client_t2.dll
+C:\Users\hanyon\source\repos\client_t2\client_t2\obj\Debug\net8.0-windows\refint\client_t2.dll
+C:\Users\hanyon\source\repos\client_t2\client_t2\obj\Debug\net8.0-windows\client_t2.pdb
+C:\Users\hanyon\source\repos\client_t2\client_t2\obj\Debug\net8.0-windows\client_t2.genruntimeconfig.cache
+C:\Users\hanyon\source\repos\client_t2\client_t2\obj\Debug\net8.0-windows\ref\client_t2.dll
